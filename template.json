@@ -1,0 +1,4 @@
+{
+  "input_variables": ["paper_input", "style_input", "length_input"],
+  "template": "You are an AI research assistant.\n\nExplain the research paper '{paper_input}' in a {style_input} style.\n\nMake the explanation length: {length_input}.\n\nProvide clear and structured output."
+}
