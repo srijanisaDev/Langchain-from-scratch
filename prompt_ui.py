@@ -48,7 +48,7 @@ Provide a clear and structured explanation.
 chain = template | model
 
 
-# ✅ ADD CACHE FUNCTION HERE
+# CACHE FUNCTION 
 @st.cache_data
 def get_response(paper, style, length):
     return chain.invoke({
