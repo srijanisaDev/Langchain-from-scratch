@@ -12,7 +12,7 @@ langchain-anthropic
 # Google Gemini (PaLM) Integration
 langchain-google-genai
 google-generativeai
-
+langchain_core
 # Hugging Face Integration
 langchain-huggingface
 transformers
@@ -24,3 +24,5 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+streamlit
