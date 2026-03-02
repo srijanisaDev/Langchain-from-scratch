@@ -1,0 +1,1 @@
+student = Student(**new_student)
