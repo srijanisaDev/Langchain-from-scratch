@@ -28,3 +28,5 @@ numpy
 scikit-learn
 
 streamlit
+
+pypdf
