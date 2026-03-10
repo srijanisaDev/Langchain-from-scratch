@@ -29,4 +29,10 @@ scikit-learn
 
 streamlit
 
-pypdf
+pypdf 
+
+tiktoken 
+
+faiss-cpu
+
+wikipedia
